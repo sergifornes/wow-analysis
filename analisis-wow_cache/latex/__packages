@@ -1,0 +1,17 @@
+base
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+knitr
+ggpubr
+kableExtra
+lattice
+caret
+e1071
+randomForest
