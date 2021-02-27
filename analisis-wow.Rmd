@@ -6,6 +6,7 @@ output:
   pdf_document:
     toc: yes
   html_document: default
+urlcolor: blue
 ---
 
 ```{r setup, include = FALSE}
